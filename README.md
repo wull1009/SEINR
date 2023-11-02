@@ -1,0 +1,2 @@
+# SEINR
+epidemic model
